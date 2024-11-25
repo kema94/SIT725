@@ -1,0 +1,23 @@
+{
+  "name": "week-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kema94/SIT725.git"
+  },
+  "author": "Kema94",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kema94/SIT725.git"
+  },
+  "homepage": "https://github.com/kema94/SIT725.git",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}
