@@ -1,0 +1,26 @@
+{
+  "name": "sit725-2022-t2-prac3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravindu14/sit725-2022-t2-prac3.git"
+  },
+  "author": "Ravindu Landekumbura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ravindu14/sit725-2022-t2-prac3/issues"
+  },
+  "homepage": "https://github.com/ravindu14/sit725-2022-t2-prac3#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
